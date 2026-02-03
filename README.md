@@ -1,16 +1,16 @@
-<h2 align="left">Hello World, I'm Hope Lee</h2>
+<h2 align="left">The World is Your Oyster</h2>
 
 ###
 
 <p align="left">
-  <strong>Hello, I'm Hope Lee, a frontend developer.</strong>
+  <h3>Hello, I'm Hope Lee, a Frontend Developer.</h3>
   
   Beyond technical execution, I continuously pursue the value and joy found in the process of creation.
   <br>I begin with thoughtful curiosity, implement with delight, and love every moment of bringing screens to life.
 
   <br>
   
-  <strong>안녕하세요. 프론트엔드 개발자 이소망입니다.</strong>
+  <h4>안녕하세요, 프론트엔드 개발자 이소망입니다.</h4>
   
   기술적인 구현을 넘어, 만들어가는 과정 속의 가치와 즐거움을 끊임없이 탐구합니다.
   <br>행복한 고민으로 시작해, 즐거움으로 구현하고, 화면을 그려가는 모든 순간을 사랑합니다.
