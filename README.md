@@ -1,4 +1,4 @@
-<h2 align="left">The World is Your Oyster</h2>
+<h1 align="left">"The World is Your Oyster"</h1>
 
 ###
 
@@ -7,8 +7,6 @@
   
   Beyond technical execution, I continuously pursue the value and joy found in the process of creation.
   <br>I begin with thoughtful curiosity, implement with delight, and love every moment of bringing screens to life.
-
-  <br>
   
   <h4>안녕하세요, 프론트엔드 개발자 이소망입니다.</h4>
   
