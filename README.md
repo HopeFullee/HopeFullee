@@ -2,13 +2,19 @@
 
 <img align="right" height="160" src="https://media1.tenor.com/m/Vyi37z2adqYAAAAC/%E3%82%B9%E3%83%94%E3%82%AD-%EC%AA%BC%EC%95%84%EC%9A%94.gif"  />
 
-<div align="left">
-  <p><strong>Hello, I'm Hope Lee, a frontend developer.</strong><br>Beyond technical execution, I continuously pursue the value and joy found in the process of creation. I begin with thoughtful curiosity, implement with   delight, and love every moment of bringing screens to life.</p>
+<p align="left">
+  <strong>Hello, I'm Hope Lee, a frontend developer.</strong>
+  
+  Beyond technical execution, I continuously pursue the value and joy found in the process of creation.
+  I begin with thoughtful curiosity, implement with   delight, and love every moment of bringing screens to life.
 
   <br>
 
-  <p><strong>안녕하세요. 프론트엔드 개발자 이소망입니다.</strong><br>기술적인 구현을 넘어, 만들어가는 과정 속의 가치와 즐거움을 끊임없이 탐구합니다.<br>행복한 고민으로 시작해, 즐거움으로 구현하고, 화면을 그려가는 모든 순간을 사랑합니다.</p>
-</div>
+  <strong>안녕하세요. 프론트엔드 개발자 이소망입니다.</strong>
+
+  기술적인 구현을 넘어, 만들어가는 과정 속의 가치와 즐거움을 끊임없이 탐구합니다.
+  <br>행복한 고민으로 시작해, 즐거움으로 구현하고, 화면을 그려가는 모든 순간을 사랑합니다.
+</p>
 
 
 <div>
