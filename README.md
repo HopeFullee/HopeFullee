@@ -6,7 +6,7 @@
   <h3>Hello, I'm Hope Lee, a Frontend Developer.</h3>
   
   Beyond technical execution, I continuously pursue the value and joy found in the process of creation.
-  <br>I begin with thoughtful curiosity, implement with delight, and love every moment of bringing screens to life.
+  <br>I begin with thoughtful curiosity, implement with delight, and love every moment of bringing interfaces to life.
   
   <h4>안녕하세요, 프론트엔드 개발자 이소망입니다.</h4>
   
@@ -16,9 +16,7 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=0&descAlignY=0&textBg=false&theme=cobalt"  />
-</div>
+***
 
 ###
 
