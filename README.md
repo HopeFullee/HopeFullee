@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="250" src="https://media1.tenor.com/m/Vyi37z2adqYAAAAC/%E3%82%B9%E3%83%94%E3%82%AD-%EC%AA%BC%EC%95%84%EC%9A%94.gif"  />
+<img align="right" height="250" src="https://media1.tenor.com/m/bVqbY_vrCpsAAAAC/playing-games-computer.gif"  />
 
 ###
 
