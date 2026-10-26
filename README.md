@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="250" src="https://media1.tenor.com/m/bVqbY_vrCpsAAAAC/playing-games-computer.gif"  />
+<img align="right" height="250" src="https://media1.tenor.com/m/njEao_V5MNkAAAAC/chiikawa-hachiware.gif"  />
 
 ###
 
